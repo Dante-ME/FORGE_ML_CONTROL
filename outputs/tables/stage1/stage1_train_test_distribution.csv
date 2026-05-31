@@ -1,0 +1,3 @@
+split,rows,Recycle_count,Recycle_percent,Conditional Reuse_count,Conditional Reuse_percent,Reuse_count,Reuse_percent
+train,110,28,25.5,55,50.0,27,24.5
+test,28,7,25.0,14,50.0,7,25.0

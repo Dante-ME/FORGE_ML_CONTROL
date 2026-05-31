@@ -1,0 +1,2 @@
+total_rows,total_columns,rows_with_valid_cycle_life,rows_missing_cycle_life,number_of_features,number_of_source_files,number_of_labels
+140,22,138,2,16,3,3

@@ -1,0 +1,4 @@
+screening_label,cycle_life,n_cycles_available,q_discharge_cycle_2,q_discharge_cycle_100,q_discharge_mean_2_100,q_charge_mean_2_100,capacity_fade_2_100,capacity_fade_pct_2_100,capacity_slope_2_100,ir_mean_2_100,ir_change_2_100,tavg_mean_2_100,tmax_mean_2_100,tmin_mean_2_100,chargetime_mean_2_100,chargetime_change_2_100,soh_cycle_100_proxy
+Conditional Reuse,754.8406,99.0,1.0711,1.0721,1.0742,1.0762,-0.001,-0.0885,-0.0,0.0163,-0.0001,33.1767,36.5109,30.5245,10.6102,0.0035,100.0885
+Recycle,446.5714,99.0,1.0664,1.062,1.0673,1.0671,0.0044,0.4228,-0.0001,0.0172,-0.0003,32.3536,36.2725,29.8577,10.2892,0.0852,99.5772
+Reuse,1221.0,99.0,1.0673,1.0693,1.0703,1.0701,-0.002,-0.1881,-0.0,0.0158,-0.0001,33.5072,36.1753,31.0383,11.076,-0.0032,100.1881

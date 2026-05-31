@@ -1,15 +1,94 @@
-.venv/
+# =============================================================
+# Python
+# =============================================================
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# =============================================================
+# Virtual environments
+# =============================================================
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+*.env
+
+# =============================================================
+# Jupyter
+# =============================================================
 .ipynb_checkpoints/
 
-outputs/models/
-outputs/figures/
-outputs/tables/
-
-data/raw/
-data/processed/
-data/synthetic/*.csv
-
+# =============================================================
+# OS / editor
+# =============================================================
 .DS_Store
 Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# =============================================================
+# Raw and large datasets
+# Raw data must not be committed — download separately.
+# Processed CSVs derived from them are tracked instead.
+# =============================================================
+data/raw/
+*.mat
+*.h5
+*.hdf5
+
+# =============================================================
+# Model artifacts and large binaries
+# =============================================================
+outputs/models/
+*.joblib
+*.pkl
+*.pickle
+
+# =============================================================
+# Archives
+# =============================================================
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar.bz2
+
+# =============================================================
+# Logs and temporary files
+# =============================================================
+tmp/
+temp/
+logs/
+*.log
+
+# =============================================================
+# Temporary / pasted / chat artifacts
+# =============================================================
+Pasted*
+pasted*
+*claude*
+*Claude*
+prompt*
+*_prompt.txt
+chat_summary*
+conversation_summary*
+
+# =============================================================
+# Claude Code project settings (local only)
+# =============================================================
+.claude/
