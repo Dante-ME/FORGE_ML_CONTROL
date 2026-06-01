@@ -1,0 +1,4 @@
+class,precision,recall,f1_score,support
+Conditional Reuse,0.5833,0.5,0.5385,14
+Recycle,0.7143,0.7143,0.7143,7
+Reuse,0.4444,0.5714,0.5,7

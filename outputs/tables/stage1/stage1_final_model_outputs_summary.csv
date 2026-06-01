@@ -1,0 +1,12 @@
+output_type,path,description
+trained_model,D:\DocDante\Kuliah\Lomba\REPPC UI\FORGE_ML_Control\outputs\models\stage1\xgboost_cycle_life_regressor.pkl,Trained XGBoost regression model for cycle_life prediction.
+trained_model,D:\DocDante\Kuliah\Lomba\REPPC UI\FORGE_ML_Control\outputs\models\stage1\xgboost_screening_classifier.pkl,Trained XGBoost classification model for screening label prediction.
+regression_predictions,D:\DocDante\Kuliah\Lomba\REPPC UI\FORGE_ML_Control\outputs\tables\stage1\stage1_regression_predictions.csv,Per-cell actual vs predicted cycle_life on the test set.
+classification_predictions,D:\DocDante\Kuliah\Lomba\REPPC UI\FORGE_ML_Control\outputs\tables\stage1\stage1_classification_predictions.csv,Per-cell actual vs predicted screening label on the test set.
+regression_metrics,D:\DocDante\Kuliah\Lomba\REPPC UI\FORGE_ML_Control\outputs\tables\stage1\stage1_regression_metrics.csv,"Test set regression metrics (MAE, RMSE, R2, MAPE)."
+classification_metrics,D:\DocDante\Kuliah\Lomba\REPPC UI\FORGE_ML_Control\outputs\tables\stage1\stage1_classification_metrics.csv,"Test set classification metrics (accuracy, F1, precision, recall)."
+regression_feat_imp,D:\DocDante\Kuliah\Lomba\REPPC UI\FORGE_ML_Control\outputs\tables\stage1\stage1_regression_feature_importance.csv,Feature importances from the regression model.
+classification_feat_imp,D:\DocDante\Kuliah\Lomba\REPPC UI\FORGE_ML_Control\outputs\tables\stage1\stage1_classification_feature_importance.csv,Feature importances from the classification model.
+regression_figures,D:\DocDante\Kuliah\Lomba\REPPC UI\FORGE_ML_Control\outputs\figures\stage1\regression_predicted_vs_actual.png,Predicted vs actual scatter plot for regression.
+classification_figures,D:\DocDante\Kuliah\Lomba\REPPC UI\FORGE_ML_Control\outputs\figures\stage1\classification_confusion_matrix.png,Confusion matrix heatmap for classification.
+final_evaluation_report,D:\DocDante\Kuliah\Lomba\REPPC UI\FORGE_ML_Control\reports\stage1_final_evaluation_summary.md,Final Stage 1 paper-ready evaluation narrative.

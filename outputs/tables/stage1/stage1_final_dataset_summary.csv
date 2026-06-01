@@ -1,0 +1,12 @@
+item,value
+total_original_rows,140
+valid_supervised_rows,138
+rows_dropped_missing_cycle_life,2
+regression_train_rows,110
+regression_test_rows,28
+classification_train_rows,110
+classification_test_rows,28
+number_of_features,16
+number_of_labels,3
+label_distribution_train,Conditional Reuse:55; Recycle:28; Reuse:27
+label_distribution_test,Conditional Reuse:14; Recycle:7; Reuse:7

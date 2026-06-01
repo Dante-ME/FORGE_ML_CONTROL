@@ -1,0 +1,17 @@
+feature,regression_importance,regression_rank,classification_importance,classification_rank,average_rank,appears_in_regression_top10,appears_in_classification_top10,interpretation
+ir_mean_2_100,0.16421165,2,0.14817439,1,1.5,True,True,Internal resistance behavior during early cycles; related to cell degradation.
+tmin_mean_2_100,0.2253884,1,0.10590971,2,1.5,True,True,Minimum temperature during early cycling; thermal behavior proxy.
+chargetime_mean_2_100,0.11553887,3,0.074063554,5,4.0,True,True,Mean charging duration; reflects charging protocol and cell response.
+chargetime_change_2_100,0.07769245,5,0.061955072,6,5.5,True,True,Change in charge time; possible electrochemical aging indicator.
+q_discharge_mean_2_100,0.04369137,8,0.08828423,4,6.0,True,True,Mean discharge capacity; early capacity behavior indicator.
+capacity_fade_2_100,0.0859674,4,0.055804607,8,6.0,True,True,Absolute capacity fade over early cycles; direct degradation metric.
+capacity_fade_pct_2_100,0.046823174,6,0.053315856,9,7.5,True,True,Percentage capacity fade over early cycles; normalised degradation trend.
+ir_change_2_100,0.041926652,9,0.05679714,7,8.0,True,True,Change in internal resistance over early cycles; degradation indicator.
+q_charge_mean_2_100,0.018185526,13,0.089339055,3,8.0,False,True,Mean charge capacity; early capacity behavior indicator.
+capacity_slope_2_100,0.046609037,7,0.037921697,15,11.0,True,False,Linear slope of capacity over early cycles; early degradation trend.
+tavg_mean_2_100,0.035945937,10,0.046271913,12,11.0,True,False,Average temperature during early cycling; thermal behavior proxy.
+q_discharge_cycle_2,0.017204827,14,0.046704024,11,12.5,False,False,Discharge capacity at cycle 2; initial capacity reference.
+soh_cycle_100_proxy,0.0151319215,15,0.05260336,10,12.5,False,True,State-of-health proxy at cycle 100; early retention relative to initial.
+q_discharge_cycle_100,0.03384265,11,0.040288113,14,12.5,False,False,Discharge capacity at cycle 100; early retention indicator.
+tmax_mean_2_100,0.03184015,12,0.042567242,13,12.5,False,False,Maximum temperature during early cycling; thermal behavior proxy.
+n_cycles_available,0.0,16,0.0,16,16.0,False,False,Number of cycles in the early-cycle window used for feature extraction.

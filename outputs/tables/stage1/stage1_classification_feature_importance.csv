@@ -1,0 +1,17 @@
+feature,importance,importance_rank
+ir_mean_2_100,0.14817439,1
+tmin_mean_2_100,0.10590971,2
+q_charge_mean_2_100,0.089339055,3
+q_discharge_mean_2_100,0.08828423,4
+chargetime_mean_2_100,0.074063554,5
+chargetime_change_2_100,0.061955072,6
+ir_change_2_100,0.05679714,7
+capacity_fade_2_100,0.055804607,8
+capacity_fade_pct_2_100,0.053315856,9
+soh_cycle_100_proxy,0.05260336,10
+q_discharge_cycle_2,0.046704024,11
+tavg_mean_2_100,0.046271913,12
+tmax_mean_2_100,0.042567242,13
+q_discharge_cycle_100,0.040288113,14
+capacity_slope_2_100,0.037921697,15
+n_cycles_available,0.0,16

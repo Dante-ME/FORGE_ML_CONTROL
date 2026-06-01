@@ -1,0 +1,29 @@
+cell_id,source_file,batch_date_inferred,cell_index,actual_label,actual_label_encoded,predicted_label,predicted_label_encoded,is_correct,probability_Conditional_Reuse,probability_Recycle,probability_Reuse
+2017-06-30_cell_045,2017-06-30_batchdata_updated_struct_errorcorrect.mat,2017-06-30,45,Recycle,1,Recycle,1,True,0.0274,0.9698,0.0029
+2017-06-30_cell_039,2017-06-30_batchdata_updated_struct_errorcorrect.mat,2017-06-30,39,Recycle,1,Conditional Reuse,0,False,0.7038,0.2714,0.0248
+2017-06-30_cell_012,2017-06-30_batchdata_updated_struct_errorcorrect.mat,2017-06-30,12,Recycle,1,Conditional Reuse,0,False,0.7335,0.2075,0.0591
+2018-04-12_cell_011,2018-04-12_batchdata_updated_struct_errorcorrect.mat,2018-04-12,11,Conditional Reuse,0,Reuse,2,False,0.4045,0.0108,0.5847
+2018-04-12_cell_031,2018-04-12_batchdata_updated_struct_errorcorrect.mat,2018-04-12,31,Conditional Reuse,0,Reuse,2,False,0.3721,0.0106,0.6173
+2017-05-12_cell_021,2017-05-12_batchdata_updated_struct_errorcorrect.mat,2017-05-12,21,Conditional Reuse,0,Conditional Reuse,0,True,0.8774,0.0961,0.0264
+2017-05-12_cell_007,2017-05-12_batchdata_updated_struct_errorcorrect.mat,2017-05-12,7,Conditional Reuse,0,Conditional Reuse,0,True,0.857,0.0414,0.1015
+2017-05-12_cell_001,2017-05-12_batchdata_updated_struct_errorcorrect.mat,2017-05-12,1,Reuse,2,Reuse,2,True,0.1328,0.0187,0.8485
+2017-06-30_cell_019,2017-06-30_batchdata_updated_struct_errorcorrect.mat,2017-06-30,19,Recycle,1,Recycle,1,True,0.2279,0.7624,0.0097
+2017-06-30_cell_007,2017-06-30_batchdata_updated_struct_errorcorrect.mat,2017-06-30,7,Conditional Reuse,0,Recycle,1,False,0.1463,0.6479,0.2058
+2017-05-12_cell_000,2017-05-12_batchdata_updated_struct_errorcorrect.mat,2017-05-12,0,Reuse,2,Reuse,2,True,0.3327,0.0542,0.6131
+2017-06-30_cell_035,2017-06-30_batchdata_updated_struct_errorcorrect.mat,2017-06-30,35,Recycle,1,Recycle,1,True,0.0688,0.9232,0.0079
+2017-06-30_cell_028,2017-06-30_batchdata_updated_struct_errorcorrect.mat,2017-06-30,28,Conditional Reuse,0,Recycle,1,False,0.2083,0.7763,0.0154
+2018-04-12_cell_035,2018-04-12_batchdata_updated_struct_errorcorrect.mat,2018-04-12,35,Reuse,2,Reuse,2,True,0.019,0.0015,0.9795
+2017-06-30_cell_018,2017-06-30_batchdata_updated_struct_errorcorrect.mat,2017-06-30,18,Recycle,1,Recycle,1,True,0.047,0.9496,0.0034
+2018-04-12_cell_027,2018-04-12_batchdata_updated_struct_errorcorrect.mat,2018-04-12,27,Conditional Reuse,0,Reuse,2,False,0.0573,0.0034,0.9393
+2017-05-12_cell_023,2017-05-12_batchdata_updated_struct_errorcorrect.mat,2017-05-12,23,Reuse,2,Conditional Reuse,0,False,0.8136,0.0256,0.1608
+2017-05-12_cell_038,2017-05-12_batchdata_updated_struct_errorcorrect.mat,2017-05-12,38,Conditional Reuse,0,Conditional Reuse,0,True,0.9556,0.0244,0.02
+2017-05-12_cell_032,2017-05-12_batchdata_updated_struct_errorcorrect.mat,2017-05-12,32,Conditional Reuse,0,Conditional Reuse,0,True,0.8636,0.0427,0.0937
+2018-04-12_cell_000,2018-04-12_batchdata_updated_struct_errorcorrect.mat,2018-04-12,0,Reuse,2,Reuse,2,True,0.4554,0.0139,0.5307
+2017-05-12_cell_029,2017-05-12_batchdata_updated_struct_errorcorrect.mat,2017-05-12,29,Conditional Reuse,0,Conditional Reuse,0,True,0.8844,0.0072,0.1085
+2017-05-12_cell_009,2017-05-12_batchdata_updated_struct_errorcorrect.mat,2017-05-12,9,Reuse,2,Conditional Reuse,0,False,0.881,0.0112,0.1078
+2017-05-12_cell_024,2017-05-12_batchdata_updated_struct_errorcorrect.mat,2017-05-12,24,Reuse,2,Conditional Reuse,0,False,0.7759,0.0371,0.187
+2017-06-30_cell_031,2017-06-30_batchdata_updated_struct_errorcorrect.mat,2017-06-30,31,Recycle,1,Recycle,1,True,0.0478,0.9462,0.006
+2018-04-12_cell_012,2018-04-12_batchdata_updated_struct_errorcorrect.mat,2018-04-12,12,Conditional Reuse,0,Reuse,2,False,0.1459,0.005,0.8491
+2017-05-12_cell_030,2017-05-12_batchdata_updated_struct_errorcorrect.mat,2017-05-12,30,Conditional Reuse,0,Conditional Reuse,0,True,0.9571,0.0083,0.0346
+2018-04-12_cell_040,2018-04-12_batchdata_updated_struct_errorcorrect.mat,2018-04-12,40,Conditional Reuse,0,Reuse,2,False,0.4647,0.0169,0.5184
+2017-05-12_cell_008,2017-05-12_batchdata_updated_struct_errorcorrect.mat,2017-05-12,8,Conditional Reuse,0,Conditional Reuse,0,True,0.8723,0.0081,0.1196

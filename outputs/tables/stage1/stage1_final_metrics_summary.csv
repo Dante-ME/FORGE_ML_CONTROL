@@ -1,0 +1,22 @@
+task,evaluation_type,metric,value,interpretation
+Regression,CV,CV MAE Mean,129.6378,
+Regression,CV,CV MAE Std,28.4927,
+Regression,CV,CV RMSE Mean,176.6171,
+Regression,CV,CV RMSE Std,50.6617,
+Regression,CV,CV R2 Mean,0.708,Average variance explained across 5 folds (training set).
+Regression,CV,CV R2 Std,0.0996,
+Regression,Test,Test MAE,120.2286,Mean absolute error in cycle count on test set.
+Regression,Test,Test RMSE,171.5513,
+Regression,Test,Test R2,0.4719,Variance explained on held-out test set.
+Regression,Test,Test MAPE,15.1491,Mean absolute percentage error on test set.
+Classification,CV,CV Accuracy Mean,0.6636,Average classification accuracy across 5 folds.
+Classification,CV,CV Accuracy Std,0.0364,
+Classification,CV,CV F1 Macro Mean,0.6549,Average per-class F1 across 5 folds; accounts for class imbalance.
+Classification,CV,CV F1 Macro Std,0.0373,
+Classification,CV,CV F1 Weighted Mean,0.6608,
+Classification,CV,CV F1 Weighted Std,0.0368,
+Classification,Test,Test Accuracy,0.5714,Overall accuracy on held-out test set.
+Classification,Test,Test Macro F1,0.5842,Per-class F1 on held-out test set.
+Classification,Test,Test Weighted F1,0.5728,
+Classification,Test,Test Macro Precision,0.5807,
+Classification,Test,Test Macro Recall,0.5952,
